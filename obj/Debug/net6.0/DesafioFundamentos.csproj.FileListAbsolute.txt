@@ -1,0 +1,15 @@
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.deps.json
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.runtimeconfig.json
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/ref/DesafioFundamentos.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.pdb
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.csproj.AssemblyReference.cache
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfo.cs
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/ref/DesafioFundamentos.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.pdb
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.genruntimeconfig.cache
