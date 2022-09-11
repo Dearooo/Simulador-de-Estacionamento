@@ -23,7 +23,8 @@ namespace Estacionamentos.Models
             Console.WriteLine("Digite a placa do veículo para estacionar:");
             String Placa = Console.ReadLine();
 
-            if (Regex.IsMatch(Placa,"[A-Z]{3}[0-9][0-9A-Z][0-9]{2}"))
+
+            if (Regex.IsMatch(Placa.ToUpper(),"[A-Z]{3}[0-9][0-9A-Z][0-9]{2}"))
             {
                 veiculos.Add(Placa.ToUpper());
                 ok = true;

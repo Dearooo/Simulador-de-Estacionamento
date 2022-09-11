@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/DesafioFundamentos.csproj": {}
+    "/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/DesafioFundamentos.csproj": {}
   },
   "projects": {
-    "/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/DesafioFundamentos.csproj": {
+    "/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/DesafioFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/DesafioFundamentos.csproj",
+        "projectUniqueName": "/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/DesafioFundamentos.csproj",
         "projectName": "DesafioFundamentos",
-        "projectPath": "/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/DesafioFundamentos.csproj",
+        "projectPath": "/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/DesafioFundamentos.csproj",
         "packagesPath": "/home/moisesdearo/.nuget/packages/",
-        "outputPath": "/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/",
+        "outputPath": "/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Estacionamento C#/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/moisesdearo/.nuget/NuGet/NuGet.Config"
